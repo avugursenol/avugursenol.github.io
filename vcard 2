@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Şenol;Arb. Av.;Uğur;;
+FN:Arb. Av. Uğur Şenol
+ORG:
+TITLE:Avukat / Arabulucu
+item1.TEL;waid=905549392280:+90 554 939 22 80
+item1.X-ABLabel:Mobil
+item2.TEL:02324454554
+item2.X-ABLabel:İş
+item3.EMAIL;type=INTERNET:av.ugursenol@gmail.com
+item3.X-ABLabel:İş
+END:VCARD
